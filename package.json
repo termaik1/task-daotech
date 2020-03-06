@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot"
   },
-  "author": "denis",
+  "author": "denis m.",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.8.7",

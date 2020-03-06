@@ -1,4 +1,4 @@
 npm start - для запуска 
 
-использовалось: react, redux, webpack
+использовалось: react, redux, webpack.
                
