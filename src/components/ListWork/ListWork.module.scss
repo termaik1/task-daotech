@@ -1,0 +1,20 @@
+.container {
+  &__content {
+    position: absolute;
+    margin: 0 30% 0 30%;
+
+    .content {
+      &__work {
+        width: 600px;
+        margin: 5px 0 0 0;
+        background: rgb(183, 181, 196);
+        span {
+          margin: 0 10px 0 0;
+        }
+      }
+    }
+  }
+  &__visible {
+    position: absolute;
+  }
+}
